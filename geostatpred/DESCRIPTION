@@ -1,9 +1,10 @@
 Package: geostatpred
 Type: Package
-Title: What the package does (short line)
+Title: data and functions for prediction exercise
 Version: 1.0
 Date: 2014-06-17
-Author: Your Name
-Maintainer: Your Name <your@email.com>
+Author: Barry Rowlingson
+Maintainer: Barry Rowlingson <b.rowlingson@gmail.com>
 Description: More about what it does (maybe more than one line)
 License: GPL (>= 2)
+
