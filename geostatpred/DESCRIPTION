@@ -7,4 +7,5 @@ Author: Barry Rowlingson
 Maintainer: Barry Rowlingson <b.rowlingson@gmail.com>
 Description: More about what it does (maybe more than one line)
 License: GPL (>= 2)
+Imports: ggplot2
 
